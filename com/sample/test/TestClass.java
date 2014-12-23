@@ -1,7 +1,8 @@
 public class TestClass {
 
 	public static void main(String[] args) {
-        	System.out.println("This is working -1");
+		// Below line is updated for version 2
+        	System.out.println("This is working - 2");
 	}
 
 }
